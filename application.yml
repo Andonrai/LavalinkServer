@@ -3,7 +3,7 @@ server: # REST and WS server
   address: 0.0.0.0
 lavalink:
   server:
-    password: "youshallnotpass"
+    password: AGASFDAS5D4AS5DA56FA
     sources:
       youtube: true
       bandcamp: true
@@ -28,7 +28,7 @@ lavalink:
 
 metrics:
   prometheus:
-    enabled: false
+    enabled: true
     endpoint: /metrics
 
 sentry:
